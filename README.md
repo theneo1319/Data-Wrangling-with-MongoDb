@@ -1,2 +1,3 @@
 # Data Wrangling with MongoDb
-            The file 'Hyderabad_part' is downloaded from https://mapzen.com/data/metro-extracts/. I selected a part of Hyderabad to procede with my analysis and cleaning the data and importing it to MonoDb.
+
+The data file is downloaded from mapzen, which is not offering its services any more. I have downloaded the data and performed the data munging on the raw data.
